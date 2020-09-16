@@ -1,0 +1,10 @@
+{
+    "name" : "HelloWorld",
+    "description" : "Your first Hello World extension which shows the date and time",
+    "shell-version" : [
+        "3.36"
+    ],
+    "url" : "https://stakdek.com",
+    "uuid" : "HelloWorld@stakdek.com",
+    "version" : 0.1
+}
