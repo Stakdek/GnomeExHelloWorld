@@ -87,9 +87,11 @@ Now you can enable your extension and see the result.
 # Debug Your Extension
 
 To Debug the Extension (extension.js), use this in terminal:
+
 `journalctl -f -o cat /usr/bin/gnome-shell`
 
 To Debug the Extension Preferences (prefs), use this in terminal:
+
 `journalctl -f -o cat /usr/bin/gnome-shell-extension-prefs`
 
 To log a message, use log:
