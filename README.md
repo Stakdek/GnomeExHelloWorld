@@ -124,4 +124,4 @@ Please note, this is a separate process from GNOME shell and you cannot access t
 
 # Documentation
 
-* GNOME JavaScript Documentation.
+* [GNOME JavaScript Documentation](https://gjs-docs.gnome.org).
